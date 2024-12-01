@@ -1,0 +1,23 @@
+[
+    {
+        "name": "شاورما دجاج",
+        "price": 35.0,
+        "discount": 10,
+        "description": "شاورما دجاج لذيذة مع تتبيلة مميزة.",
+        "img": "https://example.com/images/shawarma-chicken.jpg"
+    },
+    {
+        "name": "شاورما لحم",
+        "price": 45.0,
+        "discount": 5,
+        "description": "شاورما لحم طازج مع صوص خاص.",
+        "img": "https://example.com/images/shawarma-beef.jpg"
+    },
+    {
+        "name": "شاورما مشوي",
+        "price": 50.0,
+        "discount": 15,
+        "description": "شاورما مشوية على الفحم بنكهة رائعة.",
+        "img": "https://example.com/images/grilled-shawarma.jpg"
+    }
+]
